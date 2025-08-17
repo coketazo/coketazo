@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **coketazo/coketazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tazo0501)](https://solved.ac/tazo0501)
+
+<img src="https://img.shields.io/badge/endeavouros-7F7FFF?style=for-the-badge&logo=endeavouros&logoColor=white">
