@@ -1,20 +1,24 @@
 
-<!--
-**coketazo/coketazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3>Using</h3>
+  <a href="https://endeavouros.com/">
+    <img src="https://img.shields.io/badge/endeavouros-7F7FFF?style=for-the-badge&logo=endeavouros&logoColor=white"/>
+  </a>
+  <a href="https://archlinux.org/">
+    <img src="https://img.shields.io/badge/archlinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h3>Contact</h3>
+  <a href="https://signal.me/#eu/XeaT78ONpt7vtHuC1E5WVLBQarJyq6VM3KmOpRyKysJe2ow11XJDY7PMWwePj1WT">
+    <img src="https://img.shields.io/badge/signal-3B45FD?style=for-the-badge&logo=signal&logoColor=white"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tazo0501)](https://solved.ac/tazo0501)
-
-[![EndeavourOS](https://img.shields.io/badge/endeavouros-7F7FFF?style=for-the-badge&logo=endeavouros&logoColor=white)](https://endeavouros.com/)
-
-
+<div align="center">
+  <h3>Et Cetera</h3>
+  <a href="https://solved.ac/tazo0501">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tazo0501"/>
+  </a>
+</div>
