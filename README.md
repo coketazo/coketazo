@@ -14,6 +14,9 @@
   <a href="https://signal.me/#eu/XeaT78ONpt7vtHuC1E5WVLBQarJyq6VM3KmOpRyKysJe2ow11XJDY7PMWwePj1WT">
     <img src="https://img.shields.io/badge/signal-3B45FD?style=for-the-badge&logo=signal&logoColor=white"/>
   </a>
+  <a href="https://www.chess.com/member/coketazo">
+    <img src="https://img.shields.io/badge/chessdotcom-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=black"/>
+  </a>
 </div>
 
 <div align="center">
